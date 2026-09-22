@@ -1,5 +1,9 @@
 # E-Commerce Conversion & Traffic Analysis
 
+### Посилання на матеріали проєкту
+* 📊 **Tableau Public:** [Переглянути інтерактивний дашборд]([https://public.tableau.com/](https://public.tableau.com/views/E-CommerceConversionTrafficAnalysis/E-CommerceConversionTrafficAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+* 💻 **SQL-запити:** [Переглянути код BigQuery SQL]([./queries.sql](https://console.cloud.google.com/bigquery?sq=866822334465:24a8e03865704921b45dda1f6cd26841))
+
 ### Мета проєкту
 Комплексний аналіз воронки продажів та джерел залучення трафіку для виявлення точок відтоку користувачів та оптимізації рекламного бюджету.
 
