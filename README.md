@@ -1,6 +1,22 @@
 E-Commerce Conversion & Traffic Analysis
-Goal: Detect funnel drop-offs and optimize ad spend.
-Stack: BigQuery (SQL), Tableau Public, GA4, Sheets.
-Work: Cleaned raw GA4 events via SQL and built an interactive KPI and device-level conversion dashboard.
-Key Finding: Mobile drives 60% of visits but converts 25% lower than desktop due to checkout friction.
-Impact: Delivered solutions to simplify mobile checkout and reallocate budget to top-converting channels.
+Мета: Виявити точки відтоку користувачів у воронці та оптимізувати рекламний бюджет інтернет-магазину.
+
+Стек: BigQuery (SQL), Tableau Public, GA4, Google Sheets.
+
+Що зроблено:
+
+Очистила сирі логи GA4 в SQL та зібрала послідовність кроків: перегляд товару, додавання до кошика, початок чекауту та покупка.
+
+Створила дашборд у Tableau з логікою від верхньорівневих KPI до аналітики каналів і воронки за пристроями.
+
+Головні інсайти:
+
+Найбільший відтік відбувається під час переходу з кошика до початку оформлення замовлення.
+
+Мобільний трафік складає понад 60% візитів, але конвертується на 25% гірше за десктоп через складну форму оплати.
+
+Бізнес-вплив:
+
+Запропонувала спростити мобільний чекаут, зменшивши кількість обов'язкових полів.
+
+Надала рекомендації щодо перерозподілу бюджету на найбільш конверсійні канали залучення.
